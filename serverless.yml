@@ -1,0 +1,9 @@
+myNextApplication:
+  component: "@sls-next/serverless-component@latest"
+  inputs:
+    name:
+      defaultLambda: getamped-web-front
+    bucketRegion: "ap-northeast-2"
+    cloudfront:
+      distributionId: "E276HZUR8U203C"
+      comment: "next deploy"
