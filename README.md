@@ -1,2 +1,2 @@
-# visible-getamped-web-front
+# 주소
 https://getamped-dictionary.com/
